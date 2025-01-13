@@ -4,6 +4,8 @@ straightforward syntax. It is a favorite among developers in diverse fields, fro
 to data science, due to its simplicity and the vast ecosystem of libraries and frameworks it
 supports.
 
+![Python Logo(Zuberbuehler,Python Article A4c.pdf)](/Python_Logo.jpg)
+
 ## 1. Python's Key Features
 Python offers several **core features** that make it immensely popular:
 1. **Simplicity**: Its clean syntax allows new users to pick it up quickly.
